@@ -1,3 +1,5 @@
+"use strict";
+
 // * MENU ICON NAVBAR
 let menuIcon = document.querySelector("#menu__icon");
 let navbar = document.querySelector(".navbar");
@@ -97,7 +99,7 @@ const changeFlags = () => {
 		document.querySelector(".contact__headingh2").innerHTML = "CONTATO";
 		document.querySelector(".contact__headingh3").innerHTML =
 			"Não tenha vergonha, entre em contato!";
-		document.querySelector(".contact__texth1").innerHTML = "Localização"
+		document.querySelector(".contact__texth1").innerHTML = "Localização";
 		document.querySelector(".contact__texth2").innerHTML = "Email";
 		document.querySelector(".footer__textp").innerHTML =
 			"Copyright &copy; 2023 por Davi Fernandes | Todos os direitos reservados";
@@ -127,20 +129,24 @@ const changeFlags = () => {
 		document.querySelector(
 			".heading3"
 		).innerHTML = `<span>Hi, I'm 21 years old and,</span>`;
-		document.querySelector(".aboutp1").innerHTML = "I'm a Software Engineering student currently enrolled in a higher education institution, currently in my first semester of an eight-semester program. My objective is to obtain my initial opportunity as a Front End Developer, where I can apply my technological knowledge and improve my professional,social, and personal skills."
-		document.querySelector(".aboutp2").innerHTML = "I'm an organized, responsible, proactive and creative person, with a strong ability to learn quickly. I am dedicated to increasing my knowledge and expertise in the field and eager to contribute to a dynamic development team.";
+		document.querySelector(".aboutp1").innerHTML =
+			"I'm a Software Engineering student currently enrolled in a higher education institution, currently in my first semester of an eight-semester program. My objective is to obtain my initial opportunity as a Front End Developer, where I can apply my technological knowledge and improve my professional,social, and personal skills.";
+		document.querySelector(".aboutp2").innerHTML =
+			"I'm an organized, responsible, proactive and creative person, with a strong ability to learn quickly. I am dedicated to increasing my knowledge and expertise in the field and eager to contribute to a dynamic development team.";
 		//PORTFOLIO
 		document.querySelector(".portfolio__headingh2").innerHTML = "PORTFOLIO";
 		document.querySelector(".portfolio__headingh3").innerHTML =
 			"Each project is a unique piece of development";
-		document.querySelector(".portfolio__layerp1").innerHTML = "This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes.";
-		document.querySelector(".portfolio__layerp2").innerHTML ="This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes.";
+		document.querySelector(".portfolio__layerp1").innerHTML =
+			"This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes.";
+		document.querySelector(".portfolio__layerp2").innerHTML =
+			"This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes.";
 		//CONTACT
-		document.querySelector(".contact__headingh2").innerHTML = "CONTACT"
-		document.querySelector(".contact__headingh3").innerHTML = "Don't be shy! Hit me up!"
-				document.querySelector(".contact__texth1").innerHTML =
-					"Location";
-		document.querySelector(".contact__texth2").innerHTML = "Mail"
+		document.querySelector(".contact__headingh2").innerHTML = "CONTACT";
+		document.querySelector(".contact__headingh3").innerHTML =
+			"Don't be shy! Hit me up!";
+		document.querySelector(".contact__texth1").innerHTML = "Location";
+		document.querySelector(".contact__texth2").innerHTML = "Mail";
 		document.querySelector(".footer__textp").innerHTML =
 			"Copyright &copy; 2023 by Davi Fernandes | All Rights Reserved";
 	}
