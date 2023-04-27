@@ -265,6 +265,12 @@ span {
 	color: var(--color-primary);
 }
 
+.about{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .about__container {
 	display: flex;
 	justify-content: center;
