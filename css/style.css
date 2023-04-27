@@ -265,9 +265,9 @@ span {
 	color: var(--color-primary);
 }
 
-.about{
+.about {
 	display: flex;
-	justify-content: center;
+	justify-content: start;
 	align-items: center;
 }
 
@@ -375,7 +375,7 @@ span {
 
 .portfolio__image {
 	border-radius: 1.5rem;
-	margin: 2rem
+	margin: 2rem;
 }
 .clickon {
 	cursor: pointer;
@@ -483,12 +483,12 @@ span {
 	html {
 		font-size: 55%;
 	}
-	.portfolio__layer{
+	.portfolio__layer {
 		padding-top: 4rem;
 	}
 	.portfolio__container {
-	gap: 1rem 5rem;
-}
+		gap: 1rem 5rem;
+	}
 }
 
 @media (max-width: 1024px) {
@@ -678,5 +678,27 @@ span {
 
 	.footer__text {
 		text-align: center;
+	}
+}
+@media (max-width: 348px) {
+	.portfolio__image {
+		display: none;
+	}
+
+	.image__davi {
+		display: none;
+	}
+
+	.about__content p {
+		margin: 0.5rem;
+		padding: 0;
+	}
+	.heading3 {
+		margin: 0;
+		padding: 0;
+	}
+	.heading {
+		margin: 0;
+		padding: 0;
 	}
 }
