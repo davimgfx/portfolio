@@ -332,10 +332,13 @@ span {
 	justify-content: center;
 	gap: 1rem 10rem;
 	margin-bottom: 8rem;
+	border-radius: 5rem;
 }
 
 .portfolio__layer {
+	padding-top: 7rem;
 	max-width: 50rem;
+	text-align: center;
 }
 
 .portfolio__layer h2 {
@@ -345,7 +348,7 @@ span {
 
 .portfolio__layer p {
 	font-size: 1.5rem;
-	text-align: left;
+	text-align: center;
 	margin-bottom: 1.5rem;
 }
 
@@ -366,6 +369,7 @@ span {
 
 .portfolio__image {
 	border-radius: 1.5rem;
+	margin: 2rem
 }
 .clickon {
 	cursor: pointer;
@@ -473,6 +477,12 @@ span {
 	html {
 		font-size: 55%;
 	}
+	.portfolio__layer{
+		padding-top: 4rem;
+	}
+	.portfolio__container {
+	gap: 1rem 5rem;
+}
 }
 
 @media (max-width: 1024px) {
@@ -564,6 +574,7 @@ span {
 	.portfolio__layer {
 		text-align: center;
 		margin: 0 auto;
+		padding-top: 1rem;
 	}
 
 	.portfolio__layer p {
