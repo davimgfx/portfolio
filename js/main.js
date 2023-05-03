@@ -92,7 +92,7 @@ const changeFlags = () => {
 		document.querySelector(".portfolio__headingh3").innerHTML =
 			"Cada projeto é uma parte única do desenvolvimento";
 		document.querySelector(".portfolio__layerp1").innerHTML =
-			"Esse é um projeto onde utilizei metodos de array, DOM, funções de tempo, e Sass. Se quiser testar, use as contas demos: user: js pin: 1111 ou user: test pin: 1234";
+			"Esse é um projeto onde utilizei metodos de array, DOM, funções de tempo, e Sass. Se quiser testar, use as contas demos: user: js pin: 1111 ou user: test pin: 1234.";
 		document.querySelector(".portfolio__layerp2").innerHTML =
 			"Este é o meu primeiro projeto desenvolvido de forma independente, no qual repliquei o site pomofocus.io de maneira simples e funcional, utilizando o conceito de classes.";
 		//CONTACT
