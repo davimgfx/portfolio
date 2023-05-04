@@ -378,7 +378,14 @@ span {
 	border-radius: 1.5rem;
 	margin: 2rem;
 	box-shadow: rgba(0, 0, 0, 0.568) 0px 6px 24px 0px, rgba(0, 0, 0, 0.205) 0px 0px 0px 1px;
+	transition: 1s ease;
+	cursor: pointer;
 }
+
+.portfolio__image:hover {
+	transform: scale(1.01);
+}
+
 .clickon {
 	cursor: pointer;
 }

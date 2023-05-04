@@ -79,10 +79,10 @@ const changeFlags = () => {
 						class="placeholder"
 					/>`;
 		//ABOUT
-		document.querySelector(".heading").innerHTML = "Sobre mim";
+		document.querySelector(".heading").innerHTML = "Sobre";
 		document.querySelector(
 			".heading3"
-		).innerHTML = `<span>Oi, eu tenho 21 anos e,</span>`;
+		).innerHTML = `<span>Oi, eu tenho 21 anos,</span>`;
 		document.querySelector(".aboutp1").innerHTML =
 			"Estou cursando Engenharia de Software, atualmente no primeiro semestre de um programa de oito semestres. Meu objetivo é obter minha oportunidade inicial como Desenvolvedor Front End, onde possa aplicar meus conhecimentos tecnológicos e aprimorar minhas habilidades profissionais, sociais e pessoais.";
 		document.querySelector(".aboutp2").innerHTML =
@@ -128,7 +128,7 @@ const changeFlags = () => {
 		document.querySelector(".heading").innerHTML = "About me";
 		document.querySelector(
 			".heading3"
-		).innerHTML = `<span>Hi, I'm 21 years old and,</span>`;
+		).innerHTML = `<span>Hi, I'm 21 years old,</span>`;
 		document.querySelector(".aboutp1").innerHTML =
 			"I'm a Software Engineering student currently enrolled in a higher education institution, currently in my first semester of an eight-semester program. My objective is to obtain my initial opportunity as a Front End Developer, where I can apply my technological knowledge and improve my professional,social, and personal skills.";
 		document.querySelector(".aboutp2").innerHTML =
