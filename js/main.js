@@ -79,7 +79,7 @@ const changeFlags = () => {
 						class="placeholder"
 					/>`;
 		//ABOUT
-		document.querySelector(".heading").innerHTML = "Sobre";
+		document.querySelector(".heading").innerHTML = "Sobre mim";
 		document.querySelector(
 			".heading3"
 		).innerHTML = `<span>Oi, eu tenho 21 anos,</span>`;
