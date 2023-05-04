@@ -689,7 +689,7 @@ span {
 		text-align: center;
 	}
 }
-@media (max-width: 348px) {
+@media (max-width: 355px) {
 	.portfolio__image {
 		display: none;
 	}
