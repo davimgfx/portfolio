@@ -10,8 +10,8 @@ Hi. I'm **Davi Fernandes**. A passionate **Front-end React Developer** based in 
 ## Projects
 Here are some of the projects that I have worked on recently:
 
-* **Pomodoro Timer** ⏰: This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes. **Link**: https://davimgfx.github.io/pomodoroCopy/
-* **Couble Bank** 💵: This is a project where I used array methods, DOM, time functions, and Sass. If you want to test it, use the demo accounts: user: js pin: 1111 or user: test pin: 1234. **Link**: https://davimgfx.github.io/coubleBank/
+* **Pomodoro Timer** ⏰: This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes. **Link**: *https://davimgfx.github.io/pomodoroCopy/*
+* **Couble Bank** 💵: This is a project where I used array methods, DOM, time functions, and Sass. If you want to test it, use the demo accounts: user: js pin: 1111 or user: test pin: 1234. **Link**: *https://davimgfx.github.io/coubleBank/*
 
 ## Skills
 These are some of the skills that I have developed over time:
@@ -25,8 +25,8 @@ These are some of the skills that I have developed over time:
 You can contact me through the following channels:
 
 * Email: davifncosta@gmail.com
-* LinkedIn: https://www.linkedin.com/in/davifncosta/
-* Instagram: https://www.instagram.com/davifn_/
+* LinkedIn: *https://www.linkedin.com/in/davifncosta/*
+* Instagram: *https://www.instagram.com/davifn_/*
 
 # README (PT-BR)
 # Portfólio
@@ -40,8 +40,8 @@ Olá. Eu sou **Davi Fernandes**. Um **desenvolvedor** apaixonado especialmente p
 ## Projetos
 Aqui estão alguns dos projetos em que trabalhei recentemente:
 
-* **Pomodoro Timer** ⏰: Este é o meu primeiro projeto desenvolvido de forma independente, no qual repliquei o site pomofocus.io de maneira simples e funcional, utilizando o conceito de classes. **Link**: https://davimgfx.github.io/pomodoroCopy/
-* **Couble Bank** 💵: Esse é um projeto onde utilizei metodos de array, DOM, funções de tempo, e Sass. Se quiser testar, use as contas demos: user: js pin: 1111 ou user: test pin: 1234. **Link**: https://davimgfx.github.io/coubleBank/
+* **Pomodoro Timer** ⏰: Este é o meu primeiro projeto desenvolvido de forma independente, no qual repliquei o site pomofocus.io de maneira simples e funcional, utilizando o conceito de classes. **Link**: *https://davimgfx.github.io/pomodoroCopy/*
+* **Couble Bank** 💵: Esse é um projeto onde utilizei metodos de array, DOM, funções de tempo, e Sass. Se quiser testar, use as contas demos: user: js pin: 1111 ou user: test pin: 1234. **Link**: *https://davimgfx.github.io/coubleBank/*
 
 ## Habilidades
 Estas são algumas das habilidades que desenvolvi ao longo do tempo:
@@ -55,5 +55,5 @@ Estas são algumas das habilidades que desenvolvi ao longo do tempo:
 Você pode entrar em contato comigo pelos seguintes canais:
 
 * Email: davifncosta@gmail.com
-* LinkedIn: https://www.linkedin.com/in/davifncosta/
-* Instagram: https://www.instagram.com/davifn_/
+* LinkedIn: *https://www.linkedin.com/in/davifncosta/*
+* Instagram: *https://www.instagram.com/davifn_/*
