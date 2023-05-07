@@ -1,6 +1,7 @@
 # README (EN)
 # Portfolio
-Welcome to my portfolio! Here you can find some of the projects I have worked on, as well as my skills and contact information.
+Welcome to my portfolio! 👋<br>
+Here you can find some of the projects I have worked on, as well as my skills and contact information.
 
 ## About
 Hi. I'm Davi Fernandes. A passionate Front-end React Developer based in Bahia, Brazil. 
@@ -29,6 +30,9 @@ You can contact me through the following channels:
 # README (PT-BR)
 # Portfólio
 Bem-vindo(a) ao meu portfólio! Aqui você pode encontrar alguns dos projetos em que trabalhei, bem como minhas habilidades e informações de contato.
+
+## Sobre
+Olá. Eu sou Davi Fernandes. Um desenvolvedor apaixonado especialmente por Front-end React e moro na Bahia, Brasil. 
 
 ## Projetos
 Aqui estão alguns dos projetos em que trabalhei recentemente:
