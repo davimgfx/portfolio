@@ -2,6 +2,7 @@
 # Portfolio
 Welcome to my portfolio! 👋<br>
 Here you can find some of the projects I have worked on, as well as my skills and contact information.
+Link: davimgfx.github.io/portfolio/
 
 ## About
 Hi. I'm **Davi Fernandes**. A passionate **Front-end React Developer** based in Bahia, Brazil. 
@@ -31,6 +32,7 @@ You can contact me through the following channels:
 # Portfólio
 Bem-vindo(a) ao meu portfólio! 👋<br>
 Aqui você pode encontrar alguns dos projetos em que trabalhei, bem como minhas habilidades e informações de contato.
+Link: davimgfx.github.io/portfolio/
 
 ## Sobre
 Olá. Eu sou **Davi Fernandes**. Um **desenvolvedor** apaixonado especialmente por **Front-end React** e moro na Bahia, Brasil. 
