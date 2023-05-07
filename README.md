@@ -2,28 +2,30 @@
 # Portfolio
 Welcome to my portfolio! Here you can find some of the projects I have worked on, as well as my skills and contact information.
 
+## About
+Hi. I'm Davi Fernandes. A passionate Front-end React Developer based in Bahia, Brazil. 
+
 ## Projects
 Here are some of the projects that I have worked on recently:
 
-Project A: Description of project A.
-Project B: Description of project B.
-Project C: Description of project C.
+Pomodoro Timer: This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes.
+Couble Bank: This is a project where I used array methods, DOM, time functions, and Sass. If you want to test it, use the demo accounts: user: js pin: 1111 or user: test pin: 1234.
 
 ## Skills
 These are some of the skills that I have developed over time:
 
-Skill 1
-Skill 2
-Skill 3
-Skill 4
-Skill 5 
+* HTML5
+* CSS3
+* SASS
+* JavaScript
 
 ## Contact Information
 You can contact me through the following channels:
 
-Email: myemail@email.com
-LinkedIn: My LinkedIn profile
-Twitter: My Twitter profile
+Email: davifncosta@gmail.com
+LinkedIn: https://www.linkedin.com/in/davifncosta/
+Instagram: https://www.instagram.com/davifn_/
+
 License
 This project is licensed under the MIT License.
 
