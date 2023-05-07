@@ -22,12 +22,9 @@ These are some of the skills that I have developed over time:
 ## Contact Information
 You can contact me through the following channels:
 
-Email: davifncosta@gmail.com
-LinkedIn: https://www.linkedin.com/in/davifncosta/
-Instagram: https://www.instagram.com/davifn_/
-
-License
-This project is licensed under the MIT License.
+* Email: davifncosta@gmail.com
+* LinkedIn: https://www.linkedin.com/in/davifncosta/
+* Instagram: https://www.instagram.com/davifn_/
 
 # README (PT-BR)
 # Portfólio
