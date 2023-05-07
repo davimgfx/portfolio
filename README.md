@@ -24,7 +24,7 @@ These are some of the skills that I have developed over time:
 ## Contact Information
 You can contact me through the following channels:
 
-* Email: davifncosta@gmail.com
+* Email: *davifncosta@gmail.com*
 * LinkedIn: *https://www.linkedin.com/in/davifncosta/*
 * Instagram: *https://www.instagram.com/davifn_/*
 
@@ -54,6 +54,6 @@ Estas são algumas das habilidades que desenvolvi ao longo do tempo:
 ## Informações de Contato
 Você pode entrar em contato comigo pelos seguintes canais:
 
-* Email: davifncosta@gmail.com
+* Email: *davifncosta@gmail.com*
 * LinkedIn: *https://www.linkedin.com/in/davifncosta/*
 * Instagram: *https://www.instagram.com/davifn_/*
