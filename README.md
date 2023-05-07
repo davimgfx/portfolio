@@ -1,4 +1,4 @@
-(EN)
+# README (EN)
 # Portfolio
 Welcome to my portfolio! Here you can find some of the projects I have worked on, as well as my skills and contact information.
 
@@ -27,7 +27,7 @@ Twitter: My Twitter profile
 License
 This project is licensed under the MIT License.
 
-README (PT-BR)
+# README (PT-BR)
 # Portfólio
 Bem-vindo(a) ao meu portfólio! Aqui você pode encontrar alguns dos projetos em que trabalhei, bem como minhas habilidades e informações de contato.
 
