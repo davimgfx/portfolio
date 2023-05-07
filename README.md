@@ -27,7 +27,6 @@ You can contact me through the following channels:
 * LinkedIn: https://www.linkedin.com/in/davifncosta/
 * Instagram: https://www.instagram.com/davifn_/
 
-<br>
 # README (PT-BR)
 # Portfólio
 Bem-vindo(a) ao meu portfólio! 👋<br>
