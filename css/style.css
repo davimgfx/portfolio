@@ -98,11 +98,6 @@ body {
   margin: 0 3rem 0 0;
   border: 0.1rem solid var(--color-primary);
   border-radius: 5%;
-  transition: 0.5s ease;
-}
-
-.flags:hover{
-  transform: translateY(0rem);
 }
 
 .flags__menu {
@@ -118,11 +113,6 @@ body {
   color: var(--color-primary);
   cursor: pointer;
   transform: translateY(0.1rem);
-  transition: 0.5s ease;
-}
-
-#dark__mode--icon:hover{
-  transform: translateY(-0.2rem)
 }
 
 .header.sticky #dark__mode--icon {
