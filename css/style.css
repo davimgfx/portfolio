@@ -717,3 +717,12 @@ span {
     padding: 0;
   }
 }
+
+@media (max-width: 310px){
+  .home__content h1{
+    font-size: 4.2rem
+  }
+  .home__content h3{
+    font-size: 2.9rem
+  }
+}
