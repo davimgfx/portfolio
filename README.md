@@ -20,6 +20,8 @@ These are some of the skills that I have developed over time:
 * CSS3
 * SASS
 * JavaScript
+* Git 
+* Github
 
 ## Contact Information
 You can contact me through the following channels:
