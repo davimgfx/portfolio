@@ -28,7 +28,7 @@ const changeFlags = () => {
     document.querySelector(".homeh1").innerHTML = "Front-End";
     document.querySelector(
       ".homep"
-    ).innerHTML = `Olá. Eu sou <span class="highlight">Davi Fernandes</span>. Um desenvolvedor apaixonado especialmente por Front-end React e moro no Brasil, Bahia.
+    ).innerHTML = `Olá. Eu sou <span class="highlight">Davi Fernandes</span>. Um desenvolvedor apaixonado especialmente por Front-end React e moro na Bahia, Brasil.
 		<img
 						src="assets/images/placeholder.png"
 						alt="placeholder"
