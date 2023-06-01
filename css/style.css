@@ -515,6 +515,9 @@ span {
   .portfolio__container {
     gap: 1rem 5rem;
   }
+  .fix__text{
+    margin-left: 3rem;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -528,6 +531,9 @@ span {
 
   .portfolio__image--cell-right, .portfolio__image--cell-left {
     display: none;
+  }
+  .fix__text{
+    margin-left: 0rem;
   }
 }
 

@@ -151,14 +151,15 @@
         </div>
         <div class="portfolio__box">
           <a href="https://davimgfx.github.io/bankist/" target="_blank"
-            ><picture>
+            ><picture> 
+              <source
+                media="(max-width: 845px)"
+                srcset="assets/images/Screenshot_3_cellphone.png" />
               <img
                 src="assets/images/Screenshot_3.png"
                 alt="project1"
                 class="portfolio__image" />
-              <source
-                media="(max-width: 845px)"
-                srcset="assets/images/Screenshot_3_cellphone.png" />
+             
             </picture>
             <img
               src="assets/images/Screenshot_3_cell.png"
@@ -187,7 +188,7 @@
           </a>
         </div>
 
-        <div class="portfolio__layer">
+        <div class="portfolio__layer fix__text">
           <h2>Hoobank 🤖</h2>
           <p class="portfolio__layerp1">
             Hoobank is a modern bank with a beautiful landing page that allows
@@ -244,11 +245,10 @@
               <source
                 media="(max-width: 845px)"
                 srcset="assets/images/Screenshot_1_cellphone.png" />
-
               <img
                 src="assets/images/Screenshot_1.png"
                 alt="project1"
-                class="portfolio__image" />
+                class="portfolio__image"/>
             </picture>
             <img
               src="assets/images/Screenshot_1_cell.png"
