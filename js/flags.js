@@ -47,11 +47,13 @@ const changeFlags = () => {
     document.querySelector(".portfolio__headingh2").innerHTML = "PORTFÓLIO";
     document.querySelector(".portfolio__headingh3").innerHTML =
       "Cada projeto é uma parte única do desenvolvimento";
+
     document.querySelector(".portfolio__layerp1").innerHTML =
-      "Hoobank é um banco moderno com uma linda página inicial que permite que você faça transferências de dinheiro, receba empréstimos, veja suas transações e verifique seu saldo atual. Se você deseja testá-lo, utilize as contas de demonstração: user: js pin: 1111 ou user: test pin: 1234.";
-    document.querySelector(".portfolio__layerp2").innerHTML =
       "Este é o meu primeiro projeto desenvolvido de forma independente, no qual repliquei o site pomofocus.io de maneira simples e funcional, utilizando o conceito de classes.";
-      document.querySelector(".portfolio__layerp3").innerHTML = "Com foco na simplicidade e no design limpo, esta é uma SPA simples e minimalista para um banco."
+    document.querySelector(".portfolio__layerp2").innerHTML =
+      "Com foco na simplicidade e no design limpo, esta é uma SPA simples e minimalista para um banco.";
+    document.querySelector(".portfolio__layerp3").innerHTML =
+      "Hoobank é um banco moderno com uma linda página inicial que permite que você faça transferências de dinheiro, receba empréstimos, veja suas transações e verifique seu saldo atual. Se você deseja testá-lo, utilize as contas de demonstração: user: js pin: 1111 ou user: test pin: 1234.";
     //CONTACT
     document.querySelector(".contact__headingh2").innerHTML = "CONTATO";
     document.querySelector(".contact__headingh3").innerHTML =
@@ -94,11 +96,13 @@ const changeFlags = () => {
     document.querySelector(".portfolio__headingh2").innerHTML = "PORTFOLIO";
     document.querySelector(".portfolio__headingh3").innerHTML =
       "Each project is a unique piece of development";
+
     document.querySelector(".portfolio__layerp1").innerHTML =
-      "Hoobank is a modern bank with a beautiful landing page that allows you to transfer money, receive loans, view your transactions, and check your current balance. If you want to test it, use the demo accounts: user: js pin: 1111 or user: test pin: 1234.";
-    document.querySelector(".portfolio__layerp2").innerHTML =
       "This is my first solo project, in which I replicated the website pomofocus.io in a simple and functional manner, using the concept of classes.";
-    document.querySelector(".portfolio__layerp3").innerHTML = "With a focus on simplicity and clean design, this a simple and minimalist SPA for a bank."
+    document.querySelector(".portfolio__layerp2").innerHTML =
+      "With a focus on simplicity and clean design, this a simple and minimalist SPA for a bank.";
+    document.querySelector(".portfolio__layerp3").innerHTML =
+      "Hoobank is a modern bank with a beautiful landing page that allows you to transfer money, receive loans, view your transactions, and check your current balance. If you want to test it, use the demo accounts: user: js pin: 1111 or user: test pin: 1234.";
     //CONTACT
     document.querySelector(".contact__headingh2").innerHTML = "CONTACT";
     document.querySelector(".contact__headingh3").innerHTML =
