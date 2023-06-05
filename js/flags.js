@@ -54,6 +54,8 @@ const changeFlags = () => {
       "Com foco na simplicidade e no design limpo, esta é uma SPA simples e minimalista para um banco.";
     document.querySelector(".portfolio__layerp3").innerHTML =
       "Hoobank é um banco moderno com uma linda página inicial que permite que você faça transferências de dinheiro, receba empréstimos, veja suas transações e verifique seu saldo atual. Se você deseja testá-lo, utilize as contas de demonstração: user: js pin: 1111 ou user: test pin: 1234.";
+      document.querySelector(".portfolio__layerp4").innerHTML =
+      "Um site de academia para informações sobre condicionamento físico, horários de aulas, opções de associação e ferramentas que ajudam os usuários a alcançarem seus objetivos fitness.";
     //CONTACT
     document.querySelector(".contact__headingh2").innerHTML = "CONTATO";
     document.querySelector(".contact__headingh3").innerHTML =
@@ -103,6 +105,8 @@ const changeFlags = () => {
       "With a focus on simplicity and clean design, this a simple and minimalist SPA for a bank.";
     document.querySelector(".portfolio__layerp3").innerHTML =
       "Hoobank is a modern bank with a beautiful landing page that allows you to transfer money, receive loans, view your transactions, and check your current balance. If you want to test it, use the demo accounts: user: js pin: 1111 or user: test pin: 1234.";
+      document.querySelector(".portfolio__layerp4").innerHTML =
+      "A gym website is a one-stop platform that provides all the information you need for fitness. It includes details about exercise routines, class timetables, membership choices, and helpful tools to support you in reaching your fitness goals. ";
     //CONTACT
     document.querySelector(".contact__headingh2").innerHTML = "CONTACT";
     document.querySelector(".contact__headingh3").innerHTML =
