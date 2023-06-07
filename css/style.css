@@ -251,6 +251,12 @@ section:nth-child(odd) {
   color: var(--color-dark);
 }
 
+.bxl-tailwind-css {
+  color: #38BDF8;
+}
+
+
+
 .techtech {
   padding: 2rem 0 0.5rem;
   font-weight: 200;
